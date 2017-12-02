@@ -1,5 +1,5 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import App from './src/screen/App';
 import SecondScreen from './src/screen/SecondScreen';
 import {
   StackNavigator,

@@ -8,7 +8,7 @@ import {
 
 
 
-export default class SecondScreen extends React.Component {
+export default class SecondScreen extends Component {
 
   render() {
   const { navigate } = this.props.navigation;
